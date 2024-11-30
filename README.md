@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sayef+Ahmed!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Khadiza+Afroz!;" />
 </h1>
 
 <h2 align="center"> About Me: </h2>
@@ -8,7 +8,7 @@
 
 I'm focused on building powerful software applications. Experienced in Python programming and Django backend systems, with a track record of delivering scalable solutions to complex technical challenges. Experienced in both independent development and team collaboration.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sayef-Ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="Sayef-Ahmed" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Khadiza-Afroz&label=Profile%20views&color=0e75b6&style=flat" alt="Khadiza-Afroz" /> </p>
 
 <table align="center">
 <tr border="none">
@@ -92,13 +92,13 @@ I'm focused on building powerful software applications. Experienced in Python pr
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Sayef-Ahmed&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Khadiza-Afroz&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sayef-Ahmed&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sayef-Ahmed&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Khadiza-Afroz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
